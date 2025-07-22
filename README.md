@@ -1,12 +1,69 @@
-# React + Vite
+# 💼 Mrugank Jadhav's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and minimalist developer portfolio built with **React** and deployed to **Vercel**.  
+This site showcases my skills, projects, and experience, with smooth animations and clean UI for a strong first impression.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View Portfolio](https://mrugankjadhav.vercel.app)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- **React** – Component-based UI
+- **CSS Grid / Flexbox** – Layout and responsiveness
+- **Vite** – Lightning-fast dev server & build tool
+- **Vercel** – Hosting
+- **Unicons** – Icon set for social links and UI
+- **JavaScript** – Interactivity
+
+---
+
+## 📁 Features
+
+- 🔥 Clean and modern design
+- 🖼️ Project cards with hover effects
+- 📱 Fully responsive on all screen sizes
+- 📧 Contact section with email and location info
+- 🧠 Dynamic tech stack rendering with bullets and max 3 per line
+- 💡 Modular components for scalability
+
+---
+
+## 🧑‍💻 Sections
+
+- **About Me**
+- **Projects**
+- **Qualifications**
+- **Projects**
+- **Contact**
+- **Social Links**
+
+---
+
+## 📦 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/mj301296/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+
+```
+
+## 🙏 Credits
+
+This portfolio is based on the excellent tutorial by [Bedimcode](https://www.youtube.com/watch?v=3aCoZudPEKE).  
+All customizations, added sections, animations, and enhancements are my own.
+
+## 📫 Contact
+
+- 📍 **San Jose, CA**  
+- 📧 **mrugank.c@mailjobtech.com**  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mrugankjadhavv/)  
+- 🐙 [**GitHub**](https://github.com/mj301296)
+

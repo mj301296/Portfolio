@@ -16,7 +16,7 @@
 .work__carousel {
   display: flex;
   gap: 2rem;
-  animation: scroll 30s linear infinite;
+  animation: scrollHorizontal 30s linear infinite;
 }
 
 .work__card {
@@ -40,7 +40,7 @@
 }
 
 /* Infinite scroll keyframes */
-@keyframes scroll {
+@keyframes scrollHorizontal {
   0% {
     transform: translateX(-50%);
   }

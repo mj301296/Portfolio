@@ -7,6 +7,7 @@ import Skills from './components/skills/Skills.jsx'
 import Qualification from './components/qualification/Qualification.jsx'
 import Work from './components/work/Work.jsx'
 import Footer from './components/footer/Footer.jsx'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <Header />
 
       <main className='main'>
+        <SpeedInsights/>
         <Home />
         <About />
         <Skills />

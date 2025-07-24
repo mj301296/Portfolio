@@ -8,6 +8,7 @@ import Qualification from './components/qualification/Qualification.jsx'
 import Work from './components/work/Work.jsx'
 import Footer from './components/footer/Footer.jsx'
 import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
 
       <main className='main'>
         <SpeedInsights/>
+        <Analytics />
         <Home />
         <About />
         <Skills />

@@ -104,6 +104,7 @@
     }
 
     .word__img{
+        width: 200px;
         margin-bottom: 0.75rem;
     }
 
@@ -114,10 +115,10 @@
 
 /* For medium devices */
 @media screen and (max-width: 768px) {
-    .work__img {
+    /* .work__img {
         width: 100%;
 
-    }
+    } */
 }
 
 
@@ -125,5 +126,13 @@
 @media screen and (max-width: 350px) {
     .work__item {
         font-size: var(--small-font-size);
+
+    }
+    .work__card{
+      width: 250px;
+    }
+    .work__img {
+        width: 100%;
+
     }
 }

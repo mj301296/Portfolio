@@ -29,7 +29,7 @@
 }
 .qualification__sections {
     display:grid;
-    grid-template-columns: 0.5fr;
+    grid-template-columns: 0.8fr;
     justify-content: center;
 }
 .qualification__content{
@@ -46,6 +46,9 @@
     column-gap: 1.5rem;
 }
 
+.qualification__experience{
+    padding: var(--mb-0-25);
+}
 
 .qualification__title{
     font-size: var(--normal-font-size);
@@ -56,7 +59,7 @@
 .qualification__subtitle {
     display: inline-block;
     font-size: var(--small-font-size);
-    margin-bottom:var(--mb-1);
+    margin-bottom:var(--mb-0-5);
 }
 
 .qualification__calender{

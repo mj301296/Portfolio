@@ -89,7 +89,7 @@ const Qualification = () => {
                             </div>
                             <div className="qualification__experience">
                                 <h3 className="qualification__title">Software Engineer</h3>
-                                <span className="qualification__subtitle">Sage Sofetech</span>
+                                <span className="qualification__subtitle">Tata Consultancy Services</span>
                                 <div className="qualification__calender">
                                     <i className="bxr  bx-calendar-alt"></i> Sept 18 - July 22
                                 </div>
